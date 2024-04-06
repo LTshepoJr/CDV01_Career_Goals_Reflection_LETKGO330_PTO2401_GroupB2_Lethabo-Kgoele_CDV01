@@ -37,11 +37,11 @@ By completing this reflection, you will gain a clearer understanding of your car
     
     - Describe your key interests related to your career.
 
-    I want to create web applications for people and games too, I want to be of service, it will help me develop as a person and give me ideas on how to create my applications or games and maybe create my own school, why only learn coding when you done with school when you can also learn it while you grow up
+    I want to create web applications for people and games too, I want to be of service, it will help me develop as a person and give me ideas on how to create my applications or games and maybe create my own school, why only learn coding when you done with school when you can also learn it while you growing up
 
     - What values are important to you in a work environment?
 
-    Communication is important, because we need to know what our collegues our good at, whether it is at CSS or JavaScript, working with what you are passinate with and comfortable with will boost morality and work flow and will reach to a common goal quicker
+    Communication is important, because we need to know what our collegues are good at, whether it is at CSS or JavaScript, working with what you are passinate with and comfortable with will boost morality and work flow and will reach to a common goal quicker
 
 ### Part 2: Career Exploration Insights
 
@@ -49,19 +49,21 @@ By completing this reflection, you will gain a clearer understanding of your car
     
     - List the industries or roles you have researched.
 
-    So far there are 2 roles I have searched, is to work in and for the military or army or navy, and I have searched to be an engineer, developing software for any tech company 
+    So far there are 2 roles I have searched, is to work in and for the military, army or navy, and I have searched to be an engineer, developing software for any tech company 
 
     - Note any particular areas that piqued your interest.
 
-    To be the main man when people come for help especially for coding, and also I am interested in learning more languages like mastering python
+    To be the main man when people come for help especially for coding, and also I am interested in learning more languages like mastering Python
 
 2. **Alignment with Personal Profile**:
     
     - Reflect on how these industries/roles align with your skills, interests, and values.
-    I love to learn about coding, it has fascinated me since 2019 and finally now I have the chance to learn it, so me doing what I love will surely take me where I want to be, on the clouds
+
+    I love to learn about coding, it has fascinated me since 2019 and finally now I have the chance to learn it, so me doing what I love will surely take me where I want to be, on the clouds.
 
     - Identify any gaps or areas for further exploration.
-    No gaps, I know what I want.
+
+    Learn more helpful websites that make my job easier and more fun to learn. Like the new software engineer AI, Devin and CSS resources like Tailwind and Bootsrap.
 
 ### Part 3: SMART Career Goals
 
@@ -69,19 +71,21 @@ By completing this reflection, you will gain a clearer understanding of your car
     
     - List your specific, measurable, achievable, relevant, and time-bound goals.
 
-    In a year I will have mastered coding, hopfully have build numerous projects and will help me in my journy ahead, in 2 years I see myself getting experiance in a workplace and will help me understand how working in team feels like, all the challenges to the happy moments.
+    In a year I will have mastered coding, hopfully have build numerous projects and will help me in my journy ahead, in 2 years I see myself getting experience in a workplace and will help me understand how working in a team feels like, to get through all the challenges to ecstatic moments.
 
     - Explain the rationale behind each goal.
-    I just want to do what I love
+    
+    I just want to do what I love.
+
 2. **Long-term Goals** (3-5 years and beyond):
     
     - Outline your long-term career aspirations.
 
-    In 3 years I would be creating websites and applications for people, or working for the military or army, who knows, in 4 years I want to plan out my dream to create a school and in 5 work hard to persue my big dream
+    In 3 years I would be creating websites and applications for people, or working for the military, who knows, in 4 years I want to plan out my dream to create a school and in 5 work hard to persue my dream.
 
     - Describe how these align with your interests and skills.
 
-    I will be the best coder I know in 5 years because I love what I do, I might even be a teacher just to know how it feels like to teach people coding
+    I will be the best coder I know in 5 years because I love what I do, I might even be a teacher just to know how it feels like to teach people coding because it is only normal to teach coding because I want to open a school.
 
 ### Part 4: Action Plan
 
@@ -92,16 +96,22 @@ By completing this reflection, you will gain a clearer understanding of your car
     Practice practice practice
     Never be afriad to learn
     Manage my time
+
     - Include any resources or support required.
+
     YouTube
     chatGPT (for now)
     Devin (looks like a promising AI)
+
 2. **Preparation for Long-term Goals**:
     
     - Describe the preparations or groundwork necessary for your long-term aspirations.
+
     Never forget my dream
     Be consistant
+
     - Consider additional skills, experiences, or qualifications needed.
+
     Be a teacher, gain alot of work experiance
 
 ### Part 5: Reflection on Challenges and Opportunities
@@ -109,14 +119,24 @@ By completing this reflection, you will gain a clearer understanding of your car
 1. **Anticipated Challenges**:
     
     - Identify potential obstacles or challenges in reaching your goals.
-    none so far
+
+    Maybe women, but it is managable
+
     - Consider strategies to overcome these challenges.
-    none so far
+
+    Just don't be attached or date until you can support yourself
+
 2. **Opportunities for Growth**:
     
     - Highlight any opportunities you can leverage for career growth.
-    Learn from the best and practice
+
+    Learn from the best and practice, mostly from Scrimba and YouTube
+
     - Include networking, mentorship, or educational opportunities.
+
+    I have joined a new weekly lecture...
+    Looks promising
+    Get to meet a lecturer and meet people who are interested in coding
 
 ### Submission
 
